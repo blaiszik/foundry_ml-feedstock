@@ -19,7 +19,7 @@ requirements:
     - python >=3.7
     - pip
   run:
-    - openpyxl
+    - openpyxl >=3.1.0
     - python >=3.7
     - mdf_forge >=0.8.0
     - globus-sdk >=3,<4
